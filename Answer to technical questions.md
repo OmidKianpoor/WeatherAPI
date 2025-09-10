@@ -78,3 +78,7 @@ Please describe yourself using JSON format.
     "SQL Server"
   ]
 }
+
+---
+
+Many thanks to the Tech Team for this opportunity.
